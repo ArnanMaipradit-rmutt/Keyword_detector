@@ -1,4 +1,0 @@
-pymupdf>=1.27.0
-pandas
-pillow
-streamlit

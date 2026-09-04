@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+test_*.pdf
+verify_app.py
+create_thai_eng_test.py
+run_test_verification.py
